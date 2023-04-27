@@ -1,1 +1,1 @@
-loops_conditions
+loops conditions
